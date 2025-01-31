@@ -219,7 +219,8 @@ nav {
 }
 
 .thirdproj img {
-    width: 80%;
+    width: 50%;
+    transform: translateY(-50px);
 }
 
 /*css for manual slide nav*/
@@ -541,8 +542,8 @@ footer .container {
     }
     
     .thirdproj img {
-        width: 60%;
-        transform: translateY(0);
+        width: 30% ;
+        transform: translateY(-50px);
     }
     
     /*css for manual slide nav*/
@@ -594,7 +595,7 @@ footer .container {
     }
     
     .thirdproj img {
-        width: 50%;
+        width: 30%;
         transform: translateY(0);
         transform: translateX(-50px);
     }
@@ -718,9 +719,9 @@ footer .container {
         width: 80%;
     }
     .thirdproj img {
-        width: 50%;
-        transform: translateY(0);
-        transform: translateX(-50px);
+        width: 30%;
+        transform: translateY(-10px);
+        transform: translateX(-200px);
     }
 }
 
