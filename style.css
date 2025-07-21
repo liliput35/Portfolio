@@ -593,6 +593,10 @@ footer .container {
         transform: translateY(0);
         transform: translateX(-30px);
     }
+
+    .firstproj img { 
+        transform: translateX(-70px);
+    }
     
     .thirdproj img {
         width: 30%;
@@ -721,8 +725,9 @@ footer .container {
 
     .firstproj img { 
         width: 80%;
-        margin-left: -40px;
+        transform: translateX(-100px);
     }
+
 
     .thirdproj img {
         width: 30%;
