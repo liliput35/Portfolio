@@ -718,6 +718,12 @@ footer .container {
     .slide img {
         width: 80%;
     }
+
+    .firstproj img { 
+        width: 80%;
+        margin-left: -40px;
+    }
+
     .thirdproj img {
         width: 30%;
         transform: translateY(-10px);
